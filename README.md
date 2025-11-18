@@ -20,11 +20,10 @@ idに「d」+「yyyymmdd形式の日付」を指定して使用します。
 指定された日が祝日であれば、背景色が付きます。
 
 2026年までのデータを登録しています。  
-2023年～2026年まで単年データもあります。
-
+yearディレクトリ内に2023年～2026年まで単年データもあります。  
 ▼2025年のみのCSS  
 ```html
-<link media="all" rel="stylesheet" href="//suzukitakeomi.github.io/jp-holidays-bgcolor-css/holidays2025_bgcolor01.css" />
+<link media="all" rel="stylesheet" href="//suzukitakeomi.github.io/jp-holidays-bgcolor-css/year/holidays2025_bgcolor01.css" />
 ```
 
 データ取得元は以下のデジタル庁公開データ(e-Govデータポータルのデータセット)です。  
