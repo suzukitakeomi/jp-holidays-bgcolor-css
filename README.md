@@ -2,7 +2,7 @@
 日本の祝日に背景色を付けるCSS
 
 ```html
-<link media="all" rel="stylesheet" href="//suzukitakeomi.github.io/jp-holidays-bgcolor-css/holidays_bgcolor01.css" />
+<link media="all" rel="stylesheet" href="holidays_bgcolor01.css" />
 ```
 ```html
 <h3>2025年1月</h3>
@@ -23,7 +23,7 @@ idに「d」+「yyyymmdd形式の日付」を指定して使用します。
 yearディレクトリ内に2023年～2026年まで単年データもあります。  
 ▼2025年のみのCSS  
 ```html
-<link media="all" rel="stylesheet" href="//suzukitakeomi.github.io/jp-holidays-bgcolor-css/year/holidays2025_bgcolor01.css" />
+<link media="all" rel="stylesheet" href="holidays2025_bgcolor01.css" />
 ```
 
 データ取得元は以下のデジタル庁公開データ(e-Govデータポータルのデータセット)です。  
