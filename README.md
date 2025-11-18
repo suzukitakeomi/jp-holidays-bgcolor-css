@@ -1,6 +1,19 @@
 # jp-holidays-bgcolor-css
 日本の祝日に背景色を付けるCSS
 
+```html
+<link media="all" rel="stylesheet" href="//suzukitakeomi.github.io/jp-holidays-bgcolor-css/holidays_bgcolor01.css" />
+```
+```html
+<h3>2025年1月</h3>
+<table>
+<tr id="d20250101"><td>1</td><td>水</td><td>元旦</td></tr>
+<tr id="d20250102"><td>2</td><td>木</td><td>その他</td></tr>
+<tr id="d20250103"><td>3</td><td>金</td><td>その他</td></tr>
+...
+</table>
+```
+
 背景色は#fff0f5を指定しています。
 
 idに「d」+「yyyymmdd形式の日付」を指定して使用します。
