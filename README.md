@@ -19,8 +19,13 @@
 idに「d」+「yyyymmdd形式の日付」を指定して使用します。
 指定された日が祝日であれば、背景色が付きます。
 
-2026年までのデータを登録しています。
-年毎の分離も予定しています。
+2026年までのデータを登録しています。  
+2023年～2026年まで単年データもあります。
+
+▼2025年のみのCSS  
+```html
+<link media="all" rel="stylesheet" href="//suzukitakeomi.github.io/jp-holidays-bgcolor-css/holidays2025_bgcolor01.css" />
+```
 
 データ取得元は以下のデジタル庁公開データ(e-Govデータポータルのデータセット)です。  
 [「国民の祝日」について | 昭和30年（1955年）から令和2年（2020年）国民の祝日等（いわゆる振替休日等を含む）（csv形式：19KB） | e-Govデータポータル](https://data.e-gov.go.jp/data/dataset/cao_20190522_0002)
